@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lakshay Bansal 👋
 
-<!--
-**lbansal14/lbansal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Embedded Systems Developer | Python Developer
+- 📚 I have over 4+ years of experience in firmware, real-time systems, and scripting for EV and networking industries.
+- 🚀 Currently working on **Python scripts**, **real-time image processing**, and **secure communication protocols**.
+- 🔭 Always looking for new projects and opportunities to learn and grow.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: C/C++, Python, Bash
+- **Technologies**: FreeRTOS, BLE, TCP/IP, Modbus
+- **Tools**: Wireshark, UART, WebSocket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **MacSec and FIPS Protocol Implementation** – Developed security features for high-speed networking devices.
+- **EV Dual Gun AC Charger** – Worked on the firmware and real-time systems for Electric Vehicle chargers.
+- **Python Fingerprint Matching Script** – Created a Python-based image processing tool for real-time fingerprint matching.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/lakshay-bansal-19a688137/)
+- Email: lakshaybansal14@gmail.com
